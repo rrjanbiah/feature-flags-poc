@@ -1,2 +1,3 @@
 # feature-flags-poc
-Feature Flags PoC using OpenFeature and GrowthBook
+
+Feature Flags PoC using [react-feature-flags](https://www.npmjs.com/package/react-feature-flags)
